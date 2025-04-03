@@ -1,0 +1,389 @@
+pose_longname,id,feature_id,pose_id,target_id,type,prot_family,lig_family,residue_name,residue_number,chain_name,distance,angle,energy,prot_coord,lig_coord,prot_atoms,lig_atoms,backbone,sidechain,pose_name
+A71EV2A-x0278_A_147_v1,1,3,1,1,Hydrogen Bond,Donor,Acceptor,HIS,97,A,2.882375202849205,,,[],[],H N,[14],False,False,A0278b
+A71EV2A-x0515_A_147_v1,2,10,2,1,Hydrogen Bond,Donor,Acceptor,ARG,115,A,3.3630569754317277,,,[],[],HH11 NH1,[1],False,False,A0515b
+A71EV2A-x0365_A_201_v1,3,16,3,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.6805537694754564,,,[],[],CG,[12],False,True,A0365a
+A71EV2A-x0365_A_201_v1,4,19,3,1,Hydrophobic,Hydrophobe,Hydrophobe,GLU,106,A,4.429352510243454,,,[],[],CG,[10],False,True,A0365a
+A71EV2A-x0365_A_201_v1,5,25,3,1,Hydrogen Bond,Donor,Acceptor,SER,105,A,2.8763661258608924,,,[],[],HG OG,[14],False,False,A0365a
+A71EV2A-x0365_A_201_v1,6,26,3,1,Hydrogen Bond,Acceptor,Donor,SER,105,A,3.114468510035059,,,[],[],O,"[13, 27]",True,False,A0365a
+A71EV2A-x1084_A_147_v1,7,35,4,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,69,A,4.092509921796159,,,[],[],CB,[5],False,True,A1084a
+A71EV2A-x1084_A_147_v1,8,36,4,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,69,A,4.431896102121529,,,[],[],CG,[5],False,True,A1084a
+A71EV2A-x1084_A_147_v1,9,37,4,1,Hydrogen Bond,Donor,Acceptor,ARG,69,A,3.05291930289682,,,[],[],HH12 NH1,[7],False,False,A1084a
+A71EV2A-x1084_A_147_v1,10,38,4,1,Hydrogen Bond,Acceptor,Donor,ARG,69,A,3.05291930289682,,,[],[],NH1,"[7, 14]",False,True,A1084a
+A71EV2A-x1081_A_201_v1,11,44,5,1,Hydrogen Bond,Donor,Acceptor,LYS,78,A,2.95828734912618,,,[],[],H N,[3],False,False,A1081b
+A71EV2A-x1081_A_201_v1,12,45,5,1,Hydrogen Bond,Acceptor,Donor,LYS,78,A,3.148169814352459,,,[],[],O,"[1, 7]",True,False,A1081b
+A71EV2A-x0487_A_250_v1,13,50,6,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,B,4.3914804835409464,,,[],[],CB,[2],False,True,A0487a
+A71EV2A-x0487_A_250_v1,14,51,6,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,B,3.845517988350487,,,[],[],CD2,[2],False,True,A0487a
+A71EV2A-x0487_A_250_v1,15,56,6,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,21,B,4.2935655370191235,,,[],[],CD2,[2],False,True,A0487a
+A71EV2A-x0487_A_250_v1,16,57,6,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,21,B,3.4502338181300662,,,[],[],CE1,[2],False,True,A0487a
+A71EV2A-x0487_A_250_v1,17,63,6,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,B,3.8441396349231285,,,[],[],CG1,[10],False,True,A0487a
+A71EV2A-x0487_A_250_v1,18,64,6,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,3.927464784146181,,,[],[],CG,[6],False,True,A0487a
+A71EV2A-x0487_A_250_v1,19,68,6,1,Hydrogen Bond,Acceptor,Donor,SER,125,B,2.9846380716127068,,,[],[],O,"[1, 12]",True,False,A0487a
+A71EV2A-x0309_A_147_v1,20,70,7,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,32,A,3.8928821456602045,,,[],[],CG1,[10],False,True,A0309a
+A71EV2A-x0237_A_151_v1,21,76,8,1,Hydrogen Bond,Donor,Acceptor,SER,105,B,2.840173592304112,,,[],[],HG OG,[15],False,False,A0237a
+A71EV2A-x0237_A_151_v1,22,63,8,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,B,3.869962011539647,,,[],[],CG1,[2],False,True,A0237a
+A71EV2A-x0237_A_151_v1,23,80,8,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,4.3479571733082105,,,[],[],CB,[7],False,True,A0237a
+A71EV2A-x0237_A_151_v1,24,64,8,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,3.7812707035441395,,,[],[],CG,[8],False,True,A0237a
+A71EV2A-x0237_A_151_v1,25,83,8,1,Hydrophobic,Hydrophobe,Hydrophobe,GLU,106,B,3.9141867294141464,,,[],[],CB,[5],False,True,A0237a
+A71EV2A-x0237_A_151_v1,26,84,8,1,Hydrophobic,Hydrophobe,Hydrophobe,GLU,106,B,3.8262648187646264,,,[],[],CG,[5],False,True,A0237a
+A71EV2A-x1209_A_151_v1,27,87,9,1,Hydrogen Bond,Acceptor,Donor,SER,105,B,2.7495829392837012,,,[],[],OG,"[5, 9]",False,True,A1209a
+A71EV2A-x1209_A_151_v1,28,63,9,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,B,3.8919870233596607,,,[],[],CG1,[6],False,True,A1209a
+A71EV2A-x1209_A_151_v1,29,64,9,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,3.6778516881462195,,,[],[],CG,[3],False,True,A1209a
+A71EV2A-x0836_A_302_v1,30,90,10,1,Hydrophobic,Hydrophobe,Hydrophobe,PHE,83,A,4.380017116404911,,,[],[],CB,[12],False,True,A0836b
+A71EV2A-x0836_A_302_v1,31,92,10,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,131,A,3.8555957568189125,,,[],[],CB,[5],False,True,A0836b
+A71EV2A-x0836_A_302_v1,32,93,10,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,131,A,4.233164412115362,,,[],[],CD1,[16],False,True,A0836b
+A71EV2A-x0836_A_302_v1,33,95,10,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,98,A,4.158936523920508,,,[],[],CD2,[7],False,True,A0836b
+A71EV2A-x0836_A_302_v1,34,97,10,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,84,A,4.145831956314678,,,[],[],CG2,[7],False,True,A0836b
+A71EV2A-x0836_A_302_v1,35,98,10,1,Hydrophobic,Hydrophobe,Hydrophobe,THR,126,A,3.5995064397775423,,,[],[],CG2,[7],False,True,A0836b
+A71EV2A-x0836_A_302_v1,36,102,10,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,100,A,3.5321178646811893,,,[],[],CD2,[7],False,True,A0836b
+A71EV2A-x0836_A_302_v1,37,103,10,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,100,A,3.7658337204396055,,,[],[],CD1,[9],False,True,A0836b
+A71EV2A-x0836_A_302_v1,38,105,10,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,82,A,3.749172060602181,,,[],[],CG2,[8],False,True,A0836b
+A71EV2A-x1148_A_201_v1,39,107,11,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,A,4.05982097881175,,,[],[],CG1,[6],False,True,A1148a
+A71EV2A-x1148_A_201_v1,40,16,11,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.826178703354039,,,[],[],CG,[4],False,True,A1148a
+A71EV2A-x1148_A_201_v1,41,111,11,1,Hydrogen Bond,Donor,Acceptor,TYR,89,A,3.0047109095551927,,,[],[],HH OH,[5],False,False,A1148a
+A71EV2A-x0541_A_147_v1,42,115,12,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,81,A,4.037451139023233,,,[],[],CB,[9],False,True,A0541a
+A71EV2A-x0541_A_147_v1,43,116,12,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,81,A,4.417165731552304,,,[],[],CD1,[9],False,True,A0541a
+A71EV2A-x0541_A_147_v1,44,117,12,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,81,A,4.483224921861495,,,[],[],CD2,[9],False,True,A0541a
+A71EV2A-x0541_A_147_v1,45,3,12,1,Hydrogen Bond,Donor,Acceptor,HIS,97,A,2.8125047448848854,,,[],[],H N,[1],False,False,A0541a
+A71EV2A-x0541_A_147_v1,46,119,12,1,Hydrogen Bond,Unknown,Unknown,HIS,97,A,3.1999232568922653,,,[],[],H N,[3],False,False,A0541a
+A71EV2A-x0541_A_147_v1,47,120,12,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,79,A,4.194919161318844,,,[],[],CB,[11],False,True,A0541a
+A71EV2A-x0875_A_147_v1,48,122,13,1,Hydrophobic,Hydrophobe,Hydrophobe,CYS,116,A,4.310834602487088,,,[],[],CB,[2],False,True,A0875b
+A71EV2A-x0875_A_147_v1,49,130,13,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.743127660125955,,,[],[],CB,[4],False,True,A0875b
+A71EV2A-x0875_A_147_v1,50,129,13,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.144887896253221,,,[],[],CG2,[4],False,True,A0875b
+A71EV2A-x0875_A_147_v1,51,133,13,1,Hydrophobic,Hydrophobe,Hydrophobe,GLN,117,A,3.557417549290496,,,[],[],CB,[6],False,True,A0875b
+A71EV2A-x0528_A_201_v1,52,142,14,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,3.9016050415181693,,,[],[],CG,[6],False,True,A0528b
+A71EV2A-x0528_A_201_v1,53,143,14,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,4.481273758653895,,,[],[],CD2,[6],False,True,A0528b
+A71EV2A-x0528_A_201_v1,54,141,14,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,4.038577836318127,,,[],[],CB,[13],False,True,A0528b
+A71EV2A-x0351_A_301_v1,55,16,15,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.186253450282243,,,[],[],CG,[12],False,True,A0351a
+A71EV2A-x0351_A_301_v1,56,150,15,1,Hydrogen Bond,Donor,Acceptor,CYS,110,A,3.4474842262148204,,,[],[],HG SG,[15],False,False,A0351a
+A71EV2A-x0351_A_301_v1,57,25,15,1,Hydrogen Bond,Donor,Acceptor,SER,105,A,2.559932368247255,,,[],[],HG OG,[14],False,False,A0351a
+A71EV2A-x0450_A_201_v1,58,158,16,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.274701802465291,,,[],[],CB,[10],False,True,A0450a
+A71EV2A-x0450_A_201_v1,59,16,16,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.7977091028671484,,,[],[],CG,[11],False,True,A0450a
+A71EV2A-x0229_A_201_v1,60,115,17,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,81,A,4.098024432577238,,,[],[],CB,[2],False,True,A0229b
+A71EV2A-x0229_A_201_v1,61,3,17,1,Hydrogen Bond,Donor,Acceptor,HIS,97,A,2.924771452609587,,,[],[],H N,[12],False,False,A0229b
+A71EV2A-x1019_A_147_v1,62,16,18,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.667092724488981,,,[],[],CG,[1],False,True,A1019a
+A71EV2A-x1019_A_147_v1,63,158,18,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.296699691623795,,,[],[],CB,[6],False,True,A1019a
+A71EV2A-x1019_A_147_v1,64,150,18,1,Hydrogen Bond,Donor,Acceptor,CYS,110,A,3.1141982499513414,,,[],[],HG SG,[2],False,False,A1019a
+A71EV2A-x1019_A_147_v1,65,173,18,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,A,3.950075791677927,,,[],[],CD1,[7],False,True,A1019a
+A71EV2A-x1019_A_147_v1,66,174,18,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,A,4.140013111090351,,,[],[],CE1,[7],False,True,A1019a
+A71EV2A-x0739_A_147_v1,67,107,19,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,A,3.392024820074288,,,[],[],CG1,[2],False,True,A0739a
+A71EV2A-x0739_A_147_v1,68,16,19,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.267707423195737,,,[],[],CG,[11],False,True,A0739a
+A71EV2A-x0739_A_147_v1,69,187,19,1,Hydrogen Bond,Donor,Acceptor,SER,87,A,3.4347449192043364,,,[],[],HG OG,[17],False,False,A0739a
+A71EV2A-x1145_A_147_v1,70,191,20,1,Hydrophobic,Hydrophobe,Hydrophobe,ALA,29,A,4.260485579132972,,,[],[],CB,[5],False,True,A1145a
+A71EV2A-x1145_A_147_v1,71,141,20,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,3.343108916861669,,,[],[],CB,[8],False,True,A1145a
+A71EV2A-x1145_A_147_v1,72,142,20,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,3.631442527426255,,,[],[],CG,[8],False,True,A1145a
+A71EV2A-x1145_A_147_v1,73,194,20,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,25,A,4.077736200393546,,,[],[],CB,[4],False,True,A1145a
+A71EV2A-x0900_A_147_v1,74,191,21,1,Hydrophobic,Hydrophobe,Hydrophobe,ALA,29,A,4.190882287776647,,,[],[],CB,[8],False,True,A0900a
+A71EV2A-x0900_A_147_v1,75,141,21,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,4.158114477741086,,,[],[],CB,[7],False,True,A0900a
+A71EV2A-x0900_A_147_v1,76,142,21,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,3.9905903335220994,,,[],[],CG,[10],False,True,A0900a
+A71EV2A-x0900_A_147_v1,77,194,21,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,25,A,3.7640333965043418,,,[],[],CB,[7],False,True,A0900a
+A71EV2A-x0719_A_201_v1,78,141,22,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,3.23982024964349,,,[],[],CB,[2],False,True,A0719b
+A71EV2A-x0719_A_201_v1,79,142,22,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,3.8872244661197537,,,[],[],CG,[2],False,True,A0719b
+A71EV2A-x0719_A_201_v1,80,194,22,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,25,A,3.5371560398150383,,,[],[],CB,[2],False,True,A0719b
+A71EV2A-x0395_A_148_v1,81,201,23,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,3.972983863546391,,,[],[],CB,[12],False,True,A0395b
+A71EV2A-x0395_A_148_v1,82,202,23,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,4.264860604990509,,,[],[],CG,[12],False,True,A0395b
+A71EV2A-x0395_A_148_v1,83,204,23,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,113,A,4.499859654478127,,,[],[],CB,[5],False,True,A0395b
+A71EV2A-x0395_A_148_v1,84,130,23,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,4.047769506777776,,,[],[],CB,[12],False,True,A0395b
+A71EV2A-x0395_A_148_v1,85,206,23,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.7952655743702564,,,[],[],CG1,[12],False,True,A0395b
+A71EV2A-x0395_A_148_v1,86,214,23,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.497850061108966,,,[],[],CG,[2],False,True,A0395b
+A71EV2A-x0395_A_148_v1,87,215,23,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.9555910873092035,,,[],[],CD1,[2],False,True,A0395b
+A71EV2A-x0395_A_148_v1,88,216,23,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.194514211895136,,,[],[],CD2,[2],False,True,A0395b
+A71EV2A-x0395_A_148_v1,89,217,23,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.118087936166493,,,[],[],CE1,[2],False,True,A0395b
+A71EV2A-x0395_A_148_v1,90,218,23,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.3866557619575093,,,[],[],CE2,[2],False,True,A0395b
+A71EV2A-x0395_A_148_v1,91,213,23,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.820075039838877,,,[],[],CB,[5],False,True,A0395b
+A71EV2A-x0375_A_147_v1,92,201,24,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,3.9049145368368814,,,[],[],CB,[12],False,True,A0375c
+A71EV2A-x0375_A_147_v1,93,225,24,1,Hydrogen Bond,Acceptor,Donor,CYS,116,A,2.833339040778565,,,[],[],O,"[1, 13]",True,False,A0375c
+A71EV2A-x0375_A_147_v1,94,226,24,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,120,A,4.048720827619509,,,[],[],CG2,[12],False,True,A0375c
+A71EV2A-x0375_A_147_v1,95,133,24,1,Hydrophobic,Hydrophobe,Hydrophobe,GLN,117,A,4.233724673381584,,,[],[],CB,[6],False,True,A0375c
+A71EV2A-x0379_A_147_v1,96,233,25,1,Hydrogen Bond,Donor,Acceptor,SER,36,A,3.1424868002904978,,,[],[],H N,[1],False,False,A0379a
+A71EV2A-x1146_A_147_v1,97,191,26,1,Hydrophobic,Hydrophobe,Hydrophobe,ALA,29,A,4.2587680507395556,,,[],[],CB,[9],False,True,A1146a
+A71EV2A-x1146_A_147_v1,98,142,26,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,3.9065267399571213,,,[],[],CG,[4],False,True,A1146a
+A71EV2A-x1146_A_147_v1,99,141,26,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,3.678429813113197,,,[],[],CB,[8],False,True,A1146a
+A71EV2A-x1146_A_147_v1,100,194,26,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,25,A,3.8760320548210148,,,[],[],CB,[8],False,True,A1146a
+A71EV2A-x0207_A_151_v1,101,239,27,1,Hydrophobic,Hydrophobe,Hydrophobe,ASP,109,B,4.474760994734804,,,[],[],CB,[2],False,True,A0207a
+A71EV2A-x0207_A_151_v1,102,63,27,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,B,3.5259723992113154,,,[],[],CG1,[2],False,True,A0207a
+A71EV2A-x0207_A_151_v1,103,80,27,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,4.482509569426483,,,[],[],CB,[6],False,True,A0207a
+A71EV2A-x0207_A_151_v1,104,64,27,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,3.8345677513899767,,,[],[],CG,[6],False,True,A0207a
+A71EV2A-x1180_A_151_v1,105,242,28,1,Hydrophobic,Hydrophobe,Hydrophobe,ASN,129,A,4.486801025229446,,,[],[],CB,[3],False,True,A1180a
+A71EV2A-x1180_A_151_v1,106,92,28,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,131,A,3.885527820000778,,,[],[],CB,[3],False,True,A1180a
+A71EV2A-x1180_A_151_v1,107,93,28,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,131,A,4.2235249069941565,,,[],[],CD1,[3],False,True,A1180a
+A71EV2A-x1180_A_151_v1,108,245,28,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,84,A,4.42450186574715,,,[],[],CG1,[2],False,True,A1180a
+A71EV2A-x1180_A_151_v1,109,247,28,1,Hydrogen Bond,Donor,Acceptor,THR,126,A,2.6641490085954276,,,[],[],HG1 OG1,[5],False,False,A1180a
+A71EV2A-x1180_A_151_v1,110,250,28,1,Hydrogen Bond,Acceptor,Donor,GLY,128,A,2.7468340776246385,,,[],[],O,"[1, 7]",True,False,A1180a
+A71EV2A-x1180_A_151_v1,111,102,28,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,100,A,4.070222667127685,,,[],[],CD2,[2],False,True,A1180a
+A71EV2A-x0228_A_147_v1,112,257,29,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,91,A,4.184140325084711,,,[],[],CB,[7],False,True,A0228a
+A71EV2A-x1169_A_151_v1,113,80,30,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,4.111032381288182,,,[],[],CB,[5],False,True,A1169a
+A71EV2A-x1169_A_151_v1,114,64,30,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,3.4755848198540624,,,[],[],CG,[5],False,True,A1169a
+A71EV2A-x0926_A_250_v1,115,264,32,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,B,4.268773745468363,,,[],[],CG,[7],False,True,A0926a
+A71EV2A-x0926_A_250_v1,116,51,32,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,B,3.499625021341574,,,[],[],CD2,[7],False,True,A0926a
+A71EV2A-x0926_A_250_v1,117,265,32,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,B,4.148261309271631,,,[],[],CE2,[7],False,True,A0926a
+A71EV2A-x0926_A_250_v1,118,50,32,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,B,4.048295298023603,,,[],[],CB,[8],False,True,A0926a
+A71EV2A-x0926_A_250_v1,119,267,32,1,Hydrophobic,Hydrophobe,Hydrophobe,THR,126,B,4.036923989871494,,,[],[],CG2,[9],False,True,A0926a
+A71EV2A-x0926_A_250_v1,120,274,32,1,Hydrogen Bond,Donor,Acceptor,GLY,127,B,2.6218389519571947,,,[],[],H N,[13],False,False,A0926a
+A71EV2A-x0926_A_250_v1,121,278,32,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,90,B,4.163242368635293,,,[],[],CD2,[8],False,True,A0926a
+A71EV2A-x0926_A_250_v1,122,279,32,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,90,B,4.278270120036836,,,[],[],CE2,[8],False,True,A0926a
+A71EV2A-x0926_A_250_v1,123,281,32,1,Hydrogen Bond,Acceptor,Donor,GLN,95,B,2.5928308101378277,,,[],[],OE1,"[12, 29]",False,True,A0926a
+A71EV2A-x0926_A_250_v1,124,68,32,1,Hydrogen Bond,Acceptor,Donor,SER,125,B,2.974123267452109,,,[],[],O,"[12, 30]",True,False,A0926a
+A71EV2A-x0333_A_201_v1,125,141,33,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,4.3282592875196375,,,[],[],CB,[8],False,True,A0333a
+A71EV2A-x0333_A_201_v1,126,142,33,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,4.062111158006389,,,[],[],CG,[8],False,True,A0333a
+A71EV2A-x0432_A_147_v1,127,292,34,1,Hydrophobic,Hydrophobe,Hydrophobe,THR,60,A,4.035702368857249,,,[],[],CG2,[5],False,True,A0432a
+A71EV2A-x0432_A_147_v1,128,129,34,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.9879705728603367,,,[],[],CG2,[10],False,True,A0432a
+A71EV2A-x0432_A_147_v1,129,297,34,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,73,A,3.6357753767250265,,,[],[],CB,[6],False,True,A0432a
+A71EV2A-x0375_A_301_v1,130,158,35,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.321622400273697,,,[],[],CB,[12],False,True,A0375b
+A71EV2A-x0375_A_301_v1,131,16,35,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.629984348451105,,,[],[],CG,[12],False,True,A0375b
+A71EV2A-x0375_A_301_v1,132,150,35,1,Hydrogen Bond,Donor,Acceptor,CYS,110,A,3.3452947433671674,,,[],[],HG SG,[3],False,False,A0375b
+A71EV2A-x0375_A_301_v1,133,173,35,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,A,4.224777836762544,,,[],[],CD1,[12],False,True,A0375b
+A71EV2A-x0375_A_301_v1,134,174,35,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,A,4.089085028462969,,,[],[],CE1,[12],False,True,A0375b
+A71EV2A-x0375_A_301_v1,135,300,35,1,Hydrogen Bond,Acceptor,Donor,HIS,21,A,3.236071823986607,,,[],[],NE2,"[11, 21]",False,True,A0375b
+A71EV2A-x0571_A_147_v1,136,303,36,1,Hydrophobic,Hydrophobe,Hydrophobe,ASN,30,A,4.426635155510331,,,[],[],CB,[7],False,True,A0571a
+A71EV2A-x0571_A_147_v1,137,305,36,1,Hydrogen Bond,Acceptor,Donor,ASN,26,A,3.1090886204802843,,,[],[],OD1,"[9, 19]",False,True,A0571a
+A71EV2A-x0571_A_147_v1,138,310,36,1,Hydrophobic,Hydrophobe,Hydrophobe,THR,46,A,3.707481088286224,,,[],[],CG2,[5],False,True,A0571a
+A71EV2A-x0239_A_147_v1,139,315,37,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,33,A,4.477343500335886,,,[],[],CZ2,[2],False,True,A0239a
+A71EV2A-x1080_A_201_v1,140,245,38,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,84,A,4.032168732828527,,,[],[],CG1,[4],False,True,A1080a
+A71EV2A-x1080_A_201_v1,141,98,38,1,Hydrophobic,Hydrophobe,Hydrophobe,THR,126,A,4.3162283176403005,,,[],[],CG2,[4],False,True,A1080a
+A71EV2A-x1255_B_201_v1,142,63,39,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,B,4.1776020155108124,,,[],[],CG1,[12],False,True,A1255a
+A71EV2A-x1255_B_201_v1,143,64,39,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,4.268520231883643,,,[],[],CG,[2],False,True,A1255a
+A71EV2A-x0152_A_201_v1,144,339,40,1,Hydrogen Bond,Donor,Acceptor,ILE,113,A,2.7473655108121324,,,[],[],H N,[3],False,False,A0152b
+A71EV2A-x0152_A_201_v1,145,216,40,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.72773916737746,,,[],[],CD2,[7],False,True,A0152b
+A71EV2A-x0152_A_201_v1,146,218,40,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.7946146839962562,,,[],[],CE2,[8],False,True,A0152b
+A71EV2A-x0517_A_147_v1,147,303,41,1,Hydrophobic,Hydrophobe,Hydrophobe,ASN,30,A,3.722700087302227,,,[],[],CB,[8],False,True,A0517a
+A71EV2A-x0517_A_147_v1,148,348,41,1,Hydrophobic,Hydrophobe,Hydrophobe,THR,45,A,4.221274816924386,,,[],[],CG2,[7],False,True,A0517a
+A71EV2A-x0517_A_147_v1,149,310,41,1,Hydrophobic,Hydrophobe,Hydrophobe,THR,46,A,3.727572445976067,,,[],[],CG2,[2],False,True,A0517a
+A71EV2A-x0517_A_147_v1,150,352,41,1,Hydrogen Bond,Acceptor,Donor,SER,44,A,2.853246440460411,,,[],[],O,"[18, 32]",True,False,A0517a
+A71EV2A-x1293_A_151_v1,151,359,42,1,Hydrogen Bond,Donor,Acceptor,ILE,113,B,3.227259650229587,,,[],[],H N,[8],False,False,A1293a
+A71EV2A-x1293_A_151_v1,152,361,42,1,Hydrogen Bond,Acceptor,Donor,GLY,111,B,3.354750115880466,,,[],[],O,"[1, 11]",True,False,A1293a
+A71EV2A-x1293_A_151_v1,153,363,42,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,B,3.8534361198805396,,,[],[],CB,[3],False,True,A1293a
+A71EV2A-x1293_A_151_v1,154,364,42,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,B,3.5463810751243297,,,[],[],CG,[3],False,True,A1293a
+A71EV2A-x1293_A_151_v1,155,365,42,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,B,3.3059103330247783,,,[],[],CD2,[3],False,True,A1293a
+A71EV2A-x1293_A_151_v1,156,367,42,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,B,3.9715450620633796,,,[],[],CD1,[4],False,True,A1293a
+A71EV2A-x1293_A_151_v1,157,368,42,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,B,4.2474043815017195,,,[],[],CE1,[4],False,True,A1293a
+A71EV2A-x1293_A_151_v1,158,366,42,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,B,3.6901984242043127,,,[],[],CE2,[7],False,True,A1293a
+A71EV2A-x0554_A_201_v1,159,107,43,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,A,4.476945494419159,,,[],[],CG1,[7],False,True,A0554a
+A71EV2A-x0554_A_201_v1,160,158,43,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.331717214916045,,,[],[],CB,[12],False,True,A0554a
+A71EV2A-x0554_A_201_v1,161,16,43,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.816240405163176,,,[],[],CG,[12],False,True,A0554a
+A71EV2A-x0554_A_201_v1,162,371,43,1,Hydrogen Bond,Acceptor,Donor,SER,125,A,2.83518417743892,,,[],[],O,"[1, 14]",True,False,A0554a
+A71EV2A-x0554_A_201_v1,163,373,43,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,A,3.877458390492412,,,[],[],CD2,[2],False,True,A0554a
+A71EV2A-x0514_B_151_v1,164,64,44,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,3.859485740492521,,,[],[],CG,[9],False,True,A0514a
+A71EV2A-x0514_B_151_v1,165,80,44,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,4.430763615981617,,,[],[],CB,[10],False,True,A0514a
+A71EV2A-x0911_A_147_v1,166,95,45,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,98,A,4.374036868843245,,,[],[],CD2,[5],False,True,A0911a
+A71EV2A-x0911_A_147_v1,167,377,45,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,131,A,4.417561560408638,,,[],[],CG,[12],False,True,A0911a
+A71EV2A-x0911_A_147_v1,168,93,45,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,131,A,3.951363832906304,,,[],[],CD1,[12],False,True,A0911a
+A71EV2A-x0911_A_147_v1,169,92,45,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,131,A,3.5332964013793124,,,[],[],CB,[13],False,True,A0911a
+A71EV2A-x0911_A_147_v1,170,379,45,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,84,A,4.450889948089035,,,[],[],CB,[5],False,True,A0911a
+A71EV2A-x0911_A_147_v1,171,245,45,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,84,A,4.118183935911556,,,[],[],CG1,[5],False,True,A0911a
+A71EV2A-x0911_A_147_v1,172,97,45,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,84,A,3.965722296127151,,,[],[],CG2,[5],False,True,A0911a
+A71EV2A-x0911_A_147_v1,173,103,45,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,100,A,3.7972385769134918,,,[],[],CD1,[8],False,True,A0911a
+A71EV2A-x0911_A_147_v1,174,102,45,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,100,A,3.5276927573131998,,,[],[],CD2,[14],False,True,A0911a
+A71EV2A-x0911_A_147_v1,175,105,45,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,82,A,4.314102656404923,,,[],[],CG2,[5],False,True,A0911a
+A71EV2A-x0469_A_147_v1,176,383,46,1,Hydrophobic,Hydrophobe,Hydrophobe,ALA,86,A,3.997152052399309,,,[],[],CB,[11],False,True,A0469a
+A71EV2A-x0469_A_147_v1,177,384,46,1,Hydrophobic,Hydrophobe,Hydrophobe,GLU,88,A,4.234536939265023,,,[],[],CB,[4],False,True,A0469a
+A71EV2A-x0469_A_147_v1,178,385,46,1,Hydrophobic,Hydrophobe,Hydrophobe,GLU,88,A,3.4777990295587795,,,[],[],CG,[4],False,True,A0469a
+A71EV2A-x0469_A_147_v1,179,257,46,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,91,A,4.239149689501421,,,[],[],CB,[5],False,True,A0469a
+A71EV2A-x0469_A_147_v1,180,390,46,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,91,A,4.48947403266797,,,[],[],CG,[5],False,True,A0469a
+A71EV2A-x0446_A_147_v1,181,16,47,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.31712515917711,,,[],[],CG,[10],False,True,A0446a
+A71EV2A-x0446_A_147_v1,182,111,47,1,Hydrogen Bond,Donor,Acceptor,TYR,89,A,2.9205954495616133,,,[],[],HH OH,[3],False,False,A0446a
+A71EV2A-x0305_A_147_v1,183,3,48,1,Hydrogen Bond,Donor,Acceptor,HIS,97,A,2.9113214765806954,,,[],[],H N,[12],False,False,A0305a
+A71EV2A-x0305_A_147_v1,184,120,48,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,79,A,3.963411073810033,,,[],[],CB,[6],False,True,A0305a
+A71EV2A-x0515_A_201_v1,185,16,49,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.6988522016971705,,,[],[],CG,[5],False,True,A0515a
+A71EV2A-x0515_A_201_v1,186,398,49,1,Hydrogen Bond,Acceptor,Donor,SER,105,A,3.2933897203337468,,,[],[],OG,"[10, 18]",False,True,A0515a
+A71EV2A-x0556_A_147_v1,187,16,50,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.058817396730237,,,[],[],CG,[5],False,True,A0556a
+A71EV2A-x0556_A_147_v1,188,19,50,1,Hydrophobic,Hydrophobe,Hydrophobe,GLU,106,A,3.8978633223857413,,,[],[],CG,[9],False,True,A0556a
+A71EV2A-x0556_A_147_v1,189,174,50,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,A,4.043656295977689,,,[],[],CE1,[4],False,True,A0556a
+A71EV2A-x0556_A_147_v1,190,25,50,1,Hydrogen Bond,Donor,Acceptor,SER,105,A,3.1363179781393358,,,[],[],HG OG,[13],False,False,A0556a
+A71EV2A-x0884_A_147_v1,191,16,51,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.035891697010708,,,[],[],CG,[11],False,True,A0884a
+A71EV2A-x0278_A_201_v1,192,257,52,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,91,A,4.075853942427282,,,[],[],CB,[4],False,True,A0278a
+A71EV2A-x0488_A_147_v1,193,35,53,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,69,A,3.592003559296677,,,[],[],CB,[7],False,True,A0488a
+A71EV2A-x0488_A_147_v1,194,36,53,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,69,A,3.918553198567041,,,[],[],CG,[7],False,True,A0488a
+A71EV2A-x1292_A_151_v1,195,76,55,1,Hydrogen Bond,Donor,Acceptor,SER,105,B,2.673559670177571,,,[],[],HG OG,[3],False,False,A1292a
+A71EV2A-x1292_A_151_v1,196,80,55,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,4.069662041251091,,,[],[],CB,[7],False,True,A1292a
+A71EV2A-x1292_A_151_v1,197,64,55,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,3.7064108420411253,,,[],[],CG,[7],False,True,A1292a
+A71EV2A-x0428_A_147_v1,198,3,56,1,Hydrogen Bond,Donor,Acceptor,HIS,97,A,2.9257394911372416,,,[],[],H N,[11],False,False,A0428a
+A71EV2A-x0691_A_201_v1,199,115,57,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,81,A,3.767003322270901,,,[],[],CB,[6],False,True,A0691a
+A71EV2A-x0691_A_201_v1,200,414,57,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,97,A,4.392904271663565,,,[],[],CB,[8],False,True,A0691a
+A71EV2A-x0691_A_201_v1,201,120,57,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,79,A,4.338818334523815,,,[],[],CB,[8],False,True,A0691a
+A71EV2A-x0875_A_201_v1,202,416,58,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,90,A,3.38181101926172,,,[],[],CD1,[6],False,True,A0875a
+A71EV2A-x0875_A_201_v1,203,417,58,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,90,A,2.875745741542532,,,[],[],CE1,[6],False,True,A0875a
+A71EV2A-x0875_A_201_v1,204,16,58,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.72731130172944,,,[],[],CG,[4],False,True,A0875a
+A71EV2A-x0875_A_201_v1,205,424,58,1,Hydrophobic,Hydrophobe,Hydrophobe,CYS,110,A,3.6304040574018748,,,[],[],CB,[8],False,True,A0875a
+A71EV2A-x1148_A_147_v1,206,202,59,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,4.090911034231862,,,[],[],CG,[6],False,True,A1148b
+A71EV2A-x1148_A_147_v1,207,129,59,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,4.192230544710057,,,[],[],CG2,[2],False,True,A1148b
+A71EV2A-x1148_A_147_v1,208,130,59,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,4.287096533786008,,,[],[],CB,[6],False,True,A1148b
+A71EV2A-x0229_A_147_v1,209,257,60,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,91,A,4.236827938446404,,,[],[],CB,[10],False,True,A0229a
+A71EV2A-x0528_A_147_v1,210,16,61,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.829173788168931,,,[],[],CG,[9],False,True,A0528a
+A71EV2A-x0416_A_147_v1,211,107,62,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,A,3.5883113814160534,,,[],[],CG1,[2],False,True,A0416a
+A71EV2A-x0416_A_147_v1,212,158,62,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.272137528216993,,,[],[],CB,[7],False,True,A0416a
+A71EV2A-x0416_A_147_v1,213,16,62,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.6790629037840614,,,[],[],CG,[8],False,True,A0416a
+A71EV2A-x0351_A_302_v1,214,438,63,1,Hydrogen Bond,Acceptor,Donor,ALA,23,A,2.877317134067775,,,[],[],O,"[1, 17]",True,False,A0351b
+A71EV2A-x0351_A_302_v1,215,142,63,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,4.173123114646871,,,[],[],CG,[11],False,True,A0351b
+A71EV2A-x0354_A_147_v1,216,115,64,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,81,A,4.210233530340093,,,[],[],CB,[10],False,True,A0354a
+A71EV2A-x0354_A_147_v1,217,117,64,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,81,A,4.389195983320864,,,[],[],CD2,[10],False,True,A0354a
+A71EV2A-x0354_A_147_v1,218,3,64,1,Hydrogen Bond,Donor,Acceptor,HIS,97,A,2.945329071597943,,,[],[],H N,[12],False,False,A0354a
+A71EV2A-x0332_A_147_v1,219,3,65,1,Hydrogen Bond,Donor,Acceptor,HIS,97,A,2.904457761786182,,,[],[],H N,[3],False,False,A0332a
+A71EV2A-x0836_A_301_v1,220,16,66,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.535006684576423,,,[],[],CG,[8],False,True,A0836a
+A71EV2A-x0836_A_301_v1,221,158,66,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.444301783182595,,,[],[],CB,[13],False,True,A0836a
+A71EV2A-x0188_A_147_v1,222,449,67,1,Hydrogen Bond,Acceptor,Donor,SER,80,A,3.4624748157928895,,,[],[],N,"[13, 33]",True,False,A0188a
+A71EV2A-x0351_A_201_v1,223,297,68,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,73,A,3.553652502707602,,,[],[],CB,[12],False,True,A0351c
+A71EV2A-x0351_A_201_v1,224,454,68,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,73,A,3.536804166192977,,,[],[],CG,[12],False,True,A0351c
+A71EV2A-x0473_A_147_v1,225,93,69,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,131,A,4.1218202622235545,,,[],[],CD1,[8],False,True,A0473a
+A71EV2A-x0473_A_147_v1,226,92,69,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,131,A,3.964943964512081,,,[],[],CB,[12],False,True,A0473a
+A71EV2A-x0473_A_147_v1,227,245,69,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,84,A,4.185430954644325,,,[],[],CG1,[9],False,True,A0473a
+A71EV2A-x0473_A_147_v1,228,97,69,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,84,A,4.317698505948502,,,[],[],CG2,[9],False,True,A0473a
+A71EV2A-x0473_A_147_v1,229,103,69,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,100,A,3.624947461830985,,,[],[],CD1,[5],False,True,A0473a
+A71EV2A-x0473_A_147_v1,230,102,69,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,100,A,4.353800326674578,,,[],[],CD2,[9],False,True,A0473a
+A71EV2A-x0473_A_147_v1,231,461,69,1,Hydrogen Bond,Donor,Acceptor,ASN,129,A,3.076849825718946,,,[],[],HD21 ND2,[3],False,False,A0473a
+A71EV2A-x0473_A_147_v1,232,105,69,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,82,A,4.080021940747274,,,[],[],CG2,[4],False,True,A0473a
+A71EV2A-x0717_A_147_v1,233,3,70,1,Hydrogen Bond,Donor,Acceptor,HIS,97,A,3.145938391005139,,,[],[],H N,[12],False,False,A0717a
+A71EV2A-x0269_A_147_v1,234,201,71,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,4.072890182658989,,,[],[],CB,[5],False,True,A0269a
+A71EV2A-x0269_A_147_v1,235,202,71,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,3.8669082792329053,,,[],[],CG,[5],False,True,A0269a
+A71EV2A-x0269_A_147_v1,236,204,71,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,113,A,4.052591036608556,,,[],[],CB,[6],False,True,A0269a
+A71EV2A-x0269_A_147_v1,237,465,71,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,113,A,4.286222405568802,,,[],[],CG2,[6],False,True,A0269a
+A71EV2A-x0269_A_147_v1,238,130,71,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.9823370688579356,,,[],[],CB,[14],False,True,A0269a
+A71EV2A-x0269_A_147_v1,239,206,71,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.602000018045531,,,[],[],CG1,[14],False,True,A0269a
+A71EV2A-x0269_A_147_v1,240,466,71,1,Hydrogen Bond,Acceptor,Donor,HIS,71,A,3.452152248960058,,,[],[],ND1,"[1, 16]",False,True,A0269a
+A71EV2A-x0269_A_147_v1,241,213,71,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.007672056194218,,,[],[],CB,[6],False,True,A0269a
+A71EV2A-x0269_A_147_v1,242,214,71,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.76534472259845,,,[],[],CG,[7],False,True,A0269a
+A71EV2A-x0269_A_147_v1,243,215,71,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.405243820932651,,,[],[],CD1,[7],False,True,A0269a
+A71EV2A-x0269_A_147_v1,244,216,71,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.275922927275467,,,[],[],CD2,[7],False,True,A0269a
+A71EV2A-x0269_A_147_v1,245,217,71,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.5965580323414756,,,[],[],CE1,[7],False,True,A0269a
+A71EV2A-x0269_A_147_v1,246,218,71,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.435522864330653,,,[],[],CE2,[7],False,True,A0269a
+A71EV2A-x1128_A_147_v1,247,191,72,1,Hydrophobic,Hydrophobe,Hydrophobe,ALA,29,A,4.351104755116798,,,[],[],CB,[9],False,True,A1128a
+A71EV2A-x1128_A_147_v1,248,142,72,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,4.439316918175586,,,[],[],CG,[4],False,True,A1128a
+A71EV2A-x1128_A_147_v1,249,141,72,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,3.9788485470045236,,,[],[],CB,[10],False,True,A1128a
+A71EV2A-x1128_A_147_v1,250,194,72,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,25,A,4.05137879739725,,,[],[],CB,[10],False,True,A1128a
+A71EV2A-x0732_A_201_v1,251,107,73,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,A,3.5857541354643936,,,[],[],CG1,[2],False,True,A0732a
+A71EV2A-x0732_A_201_v1,252,470,73,1,Hydrogen Bond,Acceptor,Donor,ALA,86,A,2.7893875600210154,,,[],[],O,"[14, 29]",True,False,A0732a
+A71EV2A-x0732_A_201_v1,253,16,73,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.403474894898345,,,[],[],CG,[7],False,True,A0732a
+A71EV2A-x0732_A_201_v1,254,471,73,1,Hydrophobic,Hydrophobe,Hydrophobe,ASP,109,A,4.368638199713955,,,[],[],CB,[2],False,True,A0732a
+A71EV2A-x0732_A_201_v1,255,473,73,1,Hydrogen Bond,Donor,Acceptor,GLY,127,A,2.976415066821157,,,[],[],H N,[3],False,False,A0732a
+A71EV2A-x0501_A_152_v1,256,476,74,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,90,A,4.2144473509523745,,,[],[],CG,[11],False,True,A0501b
+A71EV2A-x0501_A_152_v1,257,474,74,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,90,A,3.440761007159796,,,[],[],CD2,[11],False,True,A0501b
+A71EV2A-x0501_A_152_v1,258,475,74,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,90,A,3.418796240148725,,,[],[],CE2,[11],False,True,A0501b
+A71EV2A-x0501_A_152_v1,259,477,74,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,90,A,4.182668389183865,,,[],[],CZ,[11],False,True,A0501b
+A71EV2A-x0501_A_152_v1,260,478,74,1,π-stacking,Aromatic,Aromatic,TYR,90,A,4.26155451754844,,,[],[],CD1 CD2 CE1 CE2 CG CZ,"[1, 10, 13, 11, 12]",False,True,A0501b
+A71EV2A-x0501_A_152_v1,261,16,74,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.919560051065891,,,[],[],CG,[8],False,True,A0501b
+A71EV2A-x0501_A_152_v1,262,150,74,1,Hydrogen Bond,Donor,Acceptor,CYS,110,A,3.471602028260531,,,[],[],HG SG,[13],False,False,A0501b
+A71EV2A-x0501_A_152_v1,263,479,74,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,21,A,3.9088023259611826,,,[],[],CE1,[11],False,True,A0501b
+A71EV2A-x0501_A_152_v1,264,480,74,1,Hydrogen Bond,Donor,Acceptor,ARG,93,A,2.9264828376909717,,,[],[],HH22 NH2,[12],False,False,A0501b
+A71EV2A-x0310_A_147_v1,265,107,75,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,A,3.460623832490321,,,[],[],CG1,[2],False,True,A0310a
+A71EV2A-x0310_A_147_v1,266,16,75,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.145239201783173,,,[],[],CG,[6],False,True,A0310a
+A71EV2A-x0310_A_147_v1,267,371,75,1,Hydrogen Bond,Acceptor,Donor,SER,125,A,2.83263218579469,,,[],[],O,"[13, 26]",True,False,A0310a
+A71EV2A-x0359_A_147_v1,268,257,76,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,91,A,4.222904082500572,,,[],[],CB,[11],False,True,A0359a
+A71EV2A-x0566_A_147_v1,269,158,77,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.100066920185572,,,[],[],CB,[12],False,True,A0566a
+A71EV2A-x0566_A_147_v1,270,16,77,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.8440323554829763,,,[],[],CG,[12],False,True,A0566a
+A71EV2A-x1140_A_147_v1,271,158,78,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.318053287072773,,,[],[],CB,[2],False,True,A1140a
+A71EV2A-x1140_A_147_v1,272,16,78,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,4.089733815298984,,,[],[],CG,[4],False,True,A1140a
+A71EV2A-x1140_A_147_v1,273,487,78,1,Hydrogen Bond,Donor,Acceptor,CYS,110,A,2.3958047103217734,,,[],[],H N,[3],False,False,A1140a
+A71EV2A-x1140_A_147_v1,274,174,78,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,89,A,4.401074224550182,,,[],[],CE1,[5],False,True,A1140a
+A71EV2A-x1140_A_147_v1,275,493,78,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,22,A,4.468616299258642,,,[],[],CD1,[14],False,True,A1140a
+A71EV2A-x1140_A_147_v1,276,494,78,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,22,A,4.0012376622740105,,,[],[],CD2,[14],False,True,A1140a
+A71EV2A-x1109_A_147_v1,277,292,79,1,Hydrophobic,Hydrophobe,Hydrophobe,THR,60,A,4.143724567342767,,,[],[],CG2,[12],False,True,A1109a
+A71EV2A-x1109_A_147_v1,278,129,79,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.9264211732823573,,,[],[],CG2,[14],False,True,A1109a
+A71EV2A-x1109_A_147_v1,279,297,79,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,73,A,3.7232746030879857,,,[],[],CB,[7],False,True,A1109a
+A71EV2A-x0608_A_147_v1,280,501,80,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,33,A,4.333886152173359,,,[],[],CG,[12],False,True,A0608a
+A71EV2A-x0608_A_147_v1,281,502,80,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,33,A,4.217479315894744,,,[],[],CD2,[12],False,True,A0608a
+A71EV2A-x0608_A_147_v1,282,315,80,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,33,A,4.152365949672548,,,[],[],CZ2,[12],False,True,A0608a
+A71EV2A-x0608_A_147_v1,283,504,80,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,140,A,3.5447606378992633,,,[],[],CD2,[12],False,True,A0608a
+A71EV2A-x1145_A_201_v1,284,202,81,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,3.603234520538457,,,[],[],CG,[2],False,True,A1145b
+A71EV2A-x1145_A_201_v1,285,130,81,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,4.431117833007828,,,[],[],CB,[5],False,True,A1145b
+A71EV2A-x1145_A_201_v1,286,129,81,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,4.027424543054779,,,[],[],CG2,[5],False,True,A1145b
+A71EV2A-x1145_A_201_v1,287,133,81,1,Hydrophobic,Hydrophobe,Hydrophobe,GLN,117,A,3.3777624502027974,,,[],[],CB,[9],False,True,A1145b
+A71EV2A-x0831_A_147_v1,288,201,82,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,3.832436131235588,,,[],[],CB,[10],False,True,A0831a
+A71EV2A-x0831_A_147_v1,289,202,82,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,4.144417760071975,,,[],[],CG,[12],False,True,A0831a
+A71EV2A-x0831_A_147_v1,290,130,82,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,4.017027342451132,,,[],[],CB,[7],False,True,A0831a
+A71EV2A-x0831_A_147_v1,291,129,82,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.99652397340489,,,[],[],CG2,[7],False,True,A0831a
+A71EV2A-x0831_A_147_v1,292,206,82,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.898657713880509,,,[],[],CG1,[13],False,True,A0831a
+A71EV2A-x0831_A_147_v1,293,133,82,1,Hydrophobic,Hydrophobe,Hydrophobe,GLN,117,A,4.429678265969211,,,[],[],CB,[4],False,True,A0831a
+A71EV2A-x0831_A_147_v1,294,213,82,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.208611878042451,,,[],[],CB,[14],False,True,A0831a
+A71EV2A-x0525_A_246_v1,295,383,83,1,Hydrophobic,Hydrophobe,Hydrophobe,ALA,86,A,4.463593173666257,,,[],[],CB,[7],False,True,A0525a
+A71EV2A-x0525_A_246_v1,296,515,83,1,Hydrogen Bond,Acceptor,Donor,SER,87,A,2.6371972451828474,,,[],[],O,"[1, 12]",True,False,A0525a
+A71EV2A-x0525_A_246_v1,297,390,83,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,91,A,4.423413321180828,,,[],[],CG,[5],False,True,A0525a
+A71EV2A-x0525_A_246_v1,298,257,83,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,91,A,3.960768708218142,,,[],[],CB,[6],False,True,A0525a
+A71EV2A-x0719_A_301_v1,299,16,84,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.9559833707941703,,,[],[],CG,[7],False,True,A0719a
+A71EV2A-x0719_A_301_v1,300,516,84,1,Hydrogen Bond,Acceptor,Donor,GLU,85,A,3.0601468494175257,,,[],[],O,"[1, 14]",True,False,A0719a
+A71EV2A-x0719_A_301_v1,301,473,84,1,Hydrogen Bond,Donor,Acceptor,GLY,127,A,2.8517037030519146,,,[],[],H N,[3],False,False,A0719a
+A71EV2A-x0375_A_201_v1,302,19,86,1,Hydrophobic,Hydrophobe,Hydrophobe,GLU,106,A,4.039278418232643,,,[],[],CG,[4],False,True,A0375a
+A71EV2A-x0375_A_201_v1,303,26,86,1,Hydrogen Bond,Acceptor,Donor,SER,105,A,2.5493203054932105,,,[],[],O,"[1, 13]",True,False,A0375a
+A71EV2A-x1105_A_148_v1,304,202,87,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,3.4999594769082685,,,[],[],CG,[2],False,True,A1105b
+A71EV2A-x1105_A_148_v1,305,201,87,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,4.215369747720832,,,[],[],CB,[3],False,True,A1105b
+A71EV2A-x1105_A_148_v1,306,204,87,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,113,A,4.186529317943443,,,[],[],CB,[4],False,True,A1105b
+A71EV2A-x1105_A_148_v1,307,523,87,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,113,A,4.330734410004844,,,[],[],CD1,[4],False,True,A1105b
+A71EV2A-x1105_A_148_v1,308,465,87,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,113,A,3.910211903465079,,,[],[],CG2,[5],False,True,A1105b
+A71EV2A-x1105_A_148_v1,309,130,87,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.9687709104960933,,,[],[],CB,[2],False,True,A1105b
+A71EV2A-x1105_A_148_v1,310,206,87,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.629225225857441,,,[],[],CG1,[2],False,True,A1105b
+A71EV2A-x1105_A_148_v1,311,213,87,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.304237276219795,,,[],[],CB,[5],False,True,A1105b
+A71EV2A-x0202_A_147_v1,312,524,88,1,Hydrogen Bond,Donor,Acceptor,ARG,115,A,3.084088053217677,,,[],[],HH22 NH2,[3],False,False,A0202a
+A71EV2A-x0202_A_147_v1,313,213,88,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.083336050339233,,,[],[],CB,[2],False,True,A0202a
+A71EV2A-x0202_A_147_v1,314,216,88,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.2848713673445427,,,[],[],CD2,[2],False,True,A0202a
+A71EV2A-x0202_A_147_v1,315,214,88,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.658296737554241,,,[],[],CG,[4],False,True,A0202a
+A71EV2A-x0202_A_147_v1,316,215,88,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.9802039168866714,,,[],[],CD1,[4],False,True,A0202a
+A71EV2A-x0202_A_147_v1,317,217,88,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.102934683857399,,,[],[],CE1,[4],False,True,A0202a
+A71EV2A-x0202_A_147_v1,318,218,88,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,2.9928386759062033,,,[],[],CE2,[5],False,True,A0202a
+A71EV2A-x0540_A_147_v1,319,383,89,1,Hydrophobic,Hydrophobe,Hydrophobe,ALA,86,A,3.851047183559297,,,[],[],CB,[7],False,True,A0540a
+A71EV2A-x0540_A_147_v1,320,384,89,1,Hydrophobic,Hydrophobe,Hydrophobe,GLU,88,A,4.311323403550236,,,[],[],CB,[3],False,True,A0540a
+A71EV2A-x0540_A_147_v1,321,257,89,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,91,A,4.18503762587626,,,[],[],CB,[14],False,True,A0540a
+A71EV2A-x0437_A_250_v1,322,87,90,1,Hydrogen Bond,Acceptor,Donor,SER,105,B,2.85661234289905,,,[],[],OG,"[1, 11]",False,True,A0437a
+A71EV2A-x0437_A_250_v1,323,63,90,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,B,3.622352839092162,,,[],[],CG1,[2],False,True,A0437a
+A71EV2A-x1180_B_151_v1,324,80,91,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,4.194420019502102,,,[],[],CB,[3],False,True,A1180b
+A71EV2A-x1180_B_151_v1,325,64,91,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,3.8912040681516573,,,[],[],CG,[3],False,True,A1180b
+A71EV2A-x1180_B_151_v1,326,76,91,1,Hydrogen Bond,Donor,Acceptor,SER,105,B,3.2723965667382067,,,[],[],HG OG,[5],False,False,A1180b
+A71EV2A-x0586_A_147_v1,327,3,92,1,Hydrogen Bond,Donor,Acceptor,HIS,97,A,2.734907673030299,,,[],[],H N,[14],False,False,A0586a
+A71EV2A-x0586_A_147_v1,328,120,92,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,79,A,3.9757454571438546,,,[],[],CB,[8],False,True,A0586a
+A71EV2A-x0526_A_147_v1,329,242,94,1,Hydrophobic,Hydrophobe,Hydrophobe,ASN,129,A,3.9122067199983186,,,[],[],CB,[9],False,True,A0526a
+A71EV2A-x0526_A_147_v1,330,92,94,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,131,A,3.6728230559067234,,,[],[],CB,[2],False,True,A0526a
+A71EV2A-x0526_A_147_v1,331,93,94,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,131,A,3.1902634201582787,,,[],[],CD1,[8],False,True,A0526a
+A71EV2A-x0526_A_147_v1,332,95,94,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,98,A,3.8514122929128205,,,[],[],CD2,[4],False,True,A0526a
+A71EV2A-x0526_A_147_v1,333,245,94,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,84,A,4.179360435521205,,,[],[],CG1,[4],False,True,A0526a
+A71EV2A-x0526_A_147_v1,334,97,94,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,84,A,4.247926888495139,,,[],[],CG2,[4],False,True,A0526a
+A71EV2A-x0526_A_147_v1,335,102,94,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,100,A,3.39564580750113,,,[],[],CD2,[4],False,True,A0526a
+A71EV2A-x0526_A_147_v1,336,105,94,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,82,A,3.605027825135334,,,[],[],CG2,[5],False,True,A0526a
+A71EV2A-x0451_A_201_v1,337,16,95,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,A,3.943410895405144,,,[],[],CG,[13],False,True,A0451a
+A71EV2A-x0396_A_147_v1,338,541,96,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,31,A,4.122268370691069,,,[],[],CG,[5],False,True,A0396a
+A71EV2A-x0396_A_147_v1,339,542,96,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,31,A,3.733527543758048,,,[],[],CD2,[5],False,True,A0396a
+A71EV2A-x0396_A_147_v1,340,543,96,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,31,A,4.0626588485867225,,,[],[],CB,[6],False,True,A0396a
+A71EV2A-x0554_A_147_v1,341,545,97,1,Hydrogen Bond,Donor,Acceptor,GLN,59,A,2.8699025715170197,,,[],[],H N,[3],False,False,A0554b
+A71EV2A-x0554_A_147_v1,342,548,97,1,Hydrophobic,Hydrophobe,Hydrophobe,CYS,58,A,4.120097426032545,,,[],[],CB,[2],False,True,A0554b
+A71EV2A-x0554_A_147_v1,343,292,97,1,Hydrophobic,Hydrophobe,Hydrophobe,THR,60,A,3.0261458424867764,,,[],[],CG2,[7],False,True,A0554b
+A71EV2A-x0387_A_151_v1,344,239,98,1,Hydrophobic,Hydrophobe,Hydrophobe,ASP,109,B,4.33698851779728,,,[],[],CB,[13],False,True,A0387a
+A71EV2A-x0387_A_151_v1,345,63,98,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,B,3.411097812823935,,,[],[],CG1,[13],False,True,A0387a
+A71EV2A-x0387_A_151_v1,346,64,98,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,3.947198834568879,,,[],[],CG,[9],False,True,A0387a
+A71EV2A-x0341_A_147_v1,347,201,99,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,3.9138800352080296,,,[],[],CB,[11],False,True,A0341a
+A71EV2A-x0341_A_147_v1,348,202,99,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,115,A,4.135182841181272,,,[],[],CG,[11],False,True,A0341a
+A71EV2A-x0341_A_147_v1,349,523,99,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,113,A,4.050885756226656,,,[],[],CD1,[2],False,True,A0341a
+A71EV2A-x0341_A_147_v1,350,204,99,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,113,A,4.2289957744126445,,,[],[],CB,[12],False,True,A0341a
+A71EV2A-x0341_A_147_v1,351,465,99,1,Hydrophobic,Hydrophobe,Hydrophobe,ILE,113,A,4.109234266867733,,,[],[],CG2,[12],False,True,A0341a
+A71EV2A-x0341_A_147_v1,352,130,99,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,4.081348427909579,,,[],[],CB,[10],False,True,A0341a
+A71EV2A-x0341_A_147_v1,353,206,99,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,62,A,3.661436083014422,,,[],[],CG1,[10],False,True,A0341a
+A71EV2A-x0341_A_147_v1,354,214,99,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.317803852654726,,,[],[],CG,[6],False,True,A0341a
+A71EV2A-x0341_A_147_v1,355,216,99,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.266562188694781,,,[],[],CD2,[6],False,True,A0341a
+A71EV2A-x0341_A_147_v1,356,213,99,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.040502005939362,,,[],[],CB,[12],False,True,A0341a
+A71EV2A-x0486_A_147_v1,357,501,100,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,33,A,4.3098652705160045,,,[],[],CG,[5],False,True,A0486a
+A71EV2A-x0486_A_147_v1,358,315,100,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,33,A,3.732029241578903,,,[],[],CZ2,[8],False,True,A0486a
+A71EV2A-x0486_A_147_v1,359,504,100,1,Hydrophobic,Hydrophobe,Hydrophobe,LEU,140,A,4.027910607250365,,,[],[],CD2,[8],False,True,A0486a
+A71EV2A-x0194_A_147_v1,360,35,101,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,69,A,4.213093458493414,,,[],[],CB,[13],False,True,A0194a
+A71EV2A-x0194_A_147_v1,361,36,101,1,Hydrophobic,Hydrophobe,Hydrophobe,ARG,69,A,4.402218314668186,,,[],[],CG,[13],False,True,A0194a
+A71EV2A-x0194_A_147_v1,362,215,101,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.005703755896085,,,[],[],CD1,[2],False,True,A0194a
+A71EV2A-x0194_A_147_v1,363,217,101,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.870715357656774,,,[],[],CE1,[2],False,True,A0194a
+A71EV2A-x0194_A_147_v1,364,213,101,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,4.463038956809585,,,[],[],CB,[4],False,True,A0194a
+A71EV2A-x0194_A_147_v1,365,214,101,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.7701474414139273,,,[],[],CG,[4],False,True,A0194a
+A71EV2A-x0194_A_147_v1,366,216,101,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.488748820135951,,,[],[],CD2,[4],False,True,A0194a
+A71EV2A-x0194_A_147_v1,367,218,101,1,Hydrophobic,Hydrophobe,Hydrophobe,TYR,64,A,3.6489557122552196,,,[],[],CE2,[7],False,True,A0194a
+A71EV2A-x0863_A_147_v1,368,142,103,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,4.280695856984003,,,[],[],CG,[2],False,True,A0863a
+A71EV2A-x0863_A_147_v1,369,141,103,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,A,4.200093595385704,,,[],[],CB,[10],False,True,A0863a
+A71EV2A-x0863_A_147_v1,370,194,103,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,25,A,3.856654613781226,,,[],[],CB,[10],False,True,A0863a
+A71EV2A-x0443_A_250_v1,371,76,104,1,Hydrogen Bond,Donor,Acceptor,SER,105,B,2.6873668190256423,,,[],[],HG OG,[10],False,False,A0443a
+A71EV2A-x0443_A_250_v1,372,63,104,1,Hydrophobic,Hydrophobe,Hydrophobe,VAL,124,B,3.7879074223111635,,,[],[],CG1,[2],False,True,A0443a
+A71EV2A-x0443_A_250_v1,373,80,104,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,4.429860715643327,,,[],[],CB,[4],False,True,A0443a
+A71EV2A-x0443_A_250_v1,374,64,104,1,Hydrophobic,Hydrophobe,Hydrophobe,PRO,107,B,3.809440206907046,,,[],[],CG,[5],False,True,A0443a
+A71EV2A-x0514_A_250_v1,375,570,105,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,B,3.6342606603741103,,,[],[],CB,[7],False,True,A0514b
+A71EV2A-x0514_A_250_v1,376,572,105,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,B,3.22958313770365,,,[],[],CD2,[8],False,True,A0514b
+A71EV2A-x0514_A_250_v1,377,573,105,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,B,3.358252070466143,,,[],[],CE2,[8],False,True,A0514b
+A71EV2A-x0514_A_250_v1,378,574,105,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,B,3.622248205081996,,,[],[],CE3,[8],False,True,A0514b
+A71EV2A-x0514_A_250_v1,379,575,105,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,B,3.7845773930115594,,,[],[],CZ2,[8],False,True,A0514b
+A71EV2A-x0514_A_250_v1,380,576,105,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,B,4.000954325049499,,,[],[],CZ3,[8],False,True,A0514b
+A71EV2A-x0514_A_250_v1,381,577,105,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,B,4.086926493002249,,,[],[],CH2,[8],False,True,A0514b
+A71EV2A-x0514_A_250_v1,382,571,105,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,B,3.435427095153884,,,[],[],CG,[9],False,True,A0514b
+A71EV2A-x0514_A_250_v1,383,569,105,1,Hydrophobic,Hydrophobe,Hydrophobe,TRP,28,B,3.125629069433497,,,[],[],CD1,[9],False,True,A0514b
+A71EV2A-x0514_A_250_v1,384,578,105,1,π-stacking,Aromatic,Aromatic,TRP,28,B,3.313417361731367,,,[],[],CD1 CD2 CE2 CG NE1,"[7, 9, 11, 8, 12]",False,True,A0514b
+A71EV2A-x0514_A_250_v1,385,584,105,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,25,B,3.6947218129982216,,,[],[],CB,[5],False,True,A0514b
+A71EV2A-x0514_A_250_v1,386,585,105,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,25,B,3.698763610688057,,,[],[],CG,[5],False,True,A0514b
+A71EV2A-x0514_A_250_v1,387,586,105,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,25,B,4.43073951087678,,,[],[],CD2,[5],False,True,A0514b
+A71EV2A-x0514_A_250_v1,388,587,105,1,Hydrophobic,Hydrophobe,Hydrophobe,HIS,25,B,4.460684693489299,,,[],[],CE1,[5],False,True,A0514b
